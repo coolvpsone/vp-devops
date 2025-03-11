@@ -1,5 +1,5 @@
 # 🚀 About Me  
-Hi, I'm **Virender Pratap Singh Champawat (VP)**, a passionate **DevOps & Networking Engineer** with **11 years of experience**—**6 years in networking** and **5 years in DevOps**.  
+Hi, I'm **Virender Pratap Singh (VP)**, a passionate **DevOps & Networking Engineer** with **11 years of experience**—**6 years in networking** and **5 years in DevOps**.  
 I specialize in **cloud computing, automation, CI/CD, and VoIP systems**.  
 
 ## 💡 What I Do  
