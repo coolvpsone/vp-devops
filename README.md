@@ -38,6 +38,13 @@ Always exploring new technologies and best practices to enhance efficiency.
   <img src="https://skillicons.dev/icons?i=aws,azure,digitalocean,linux,docker,kubernetes,nginx,bash,python,terraform,ansible,githubactions,gitlab,postgres,mysql,redis,vscode" />
 </p>
 
+
+---
+
+## 🚀 DevOps Roadmap  
+**Want to become a DevOps Engineer? Follow this roadmap!**  
+🛠 [DevOps Roadmap](https://roadmap.sh/devops)  
+
 ---
 
 ## 📝 Latest Blog Posts  
