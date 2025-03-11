@@ -41,9 +41,17 @@ Always exploring new technologies and best practices to enhance efficiency.
 
 ---
 
-## 🚀 DevOps Roadmap  
-**Want to become a DevOps Engineer? Follow this roadmap!**  
-🛠 [DevOps Roadmap](https://roadmap.sh/devops)  
+## 🚀 DevOps Workflow Diagram  
+```mermaid
+graph TD;
+    Developer -->|Push Code| GitHub;
+    GitHub -->|Triggers CI/CD| GitHub_Actions;
+    GitHub_Actions -->|Build & Test| Docker;
+    Docker -->|Deploy| Kubernetes;
+    Kubernetes -->|Runs on| AWS;
+    AWS -->|Monitored by| Prometheus;
+    Prometheus -->|Alerts to| Grafana;
+
 
 ---
 
