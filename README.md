@@ -55,6 +55,32 @@ graph TD;
 
 ---
 
+### **💡 Explanation of This Diagram:**  
+- **Developer** pushes code to **GitHub**  
+- **GitHub Actions** triggers a **CI/CD pipeline**  
+- Code is **built & tested** using **Docker**  
+- **Dockerized application** is **deployed to Kubernetes**  
+- **Kubernetes runs on AWS**  
+- **Prometheus monitors the application**  
+- **Grafana displays monitoring dashboards & sends alerts**  
+
+---
+
+### **🛠 More Examples of DevOps Diagrams**  
+
+#### **📦 Docker Container Workflow**  
+```md
+```mermaid
+graph TD;
+    Code -->|Build| Docker;
+    Docker -->|Push Image| DockerHub;
+    DockerHub -->|Pull Image| Kubernetes;
+    Kubernetes -->|Deploy| AWS_ECS;
+
+
+
+---
+
 ## 📝 Latest Blog Posts  
 <!-- BLOG-POST-LIST:START -->
 - 🚀 [How to Set Up GitHub Actions for CI/CD](#)
