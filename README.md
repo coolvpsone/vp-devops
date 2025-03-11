@@ -23,7 +23,7 @@ Always exploring new technologies and best practices to enhance efficiency.
 
 ### 🔥 Streak Stats  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coolvpsone&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=coolvpsone&theme=radical" alt="GitHub Streak">
 </p>
 
 ### 🏆 GitHub Trophies  
@@ -38,31 +38,6 @@ Always exploring new technologies and best practices to enhance efficiency.
   <img src="https://skillicons.dev/icons?i=aws,azure,digitalocean,linux,docker,kubernetes,nginx,bash,python,terraform,ansible,githubactions,gitlab,postgres,mysql,redis,vscode" />
 </p>
 
-
----
-
-## 🚀 DevOps Workflow Diagram  
-```mermaid
-graph TD;
-    Developer -->|Push Code| GitHub;
-    GitHub -->|Triggers CI/CD| GitHub_Actions;
-    GitHub_Actions -->|Build & Test| Docker;
-    Docker -->|Deploy| Kubernetes;
-    Kubernetes -->|Runs on| AWS;
-    AWS -->|Monitored by| Prometheus;
-    Prometheus -->|Alerts to| Grafana;
-
-
----
-
-### **💡 Explanation of This Diagram:**  
-- **Developer** pushes code to **GitHub**  
-- **GitHub Actions** triggers a **CI/CD pipeline**  
-- Code is **built & tested** using **Docker**  
-- **Dockerized application** is **deployed to Kubernetes**  
-- **Kubernetes runs on AWS**  
-- **Prometheus monitors the application**  
-- **Grafana displays monitoring dashboards & sends alerts**  
 
 ---
 
