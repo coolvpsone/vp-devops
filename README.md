@@ -23,13 +23,6 @@ Always exploring new technologies and best practices to enhance efficiency.
 
 ---
 
-### 🔥 Streak Stats (Alternative)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coolvpsone&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
-
----
-
 ### 🏆 GitHub Trophies  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=coolvpsone&theme=radical&no-frame=true&margin-w=5" alt="GitHub Trophies">
