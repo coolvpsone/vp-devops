@@ -24,9 +24,7 @@ Always exploring new technologies and best practices to enhance efficiency.
 ---
 
 ### 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=coolvpsone&theme=radical&no-frame=true&margin-w=5" alt="GitHub Trophies">
-</p>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=coolvpsone&theme=radical&no-frame=true&margin-w=5)
 
 ---
 
