@@ -14,11 +14,45 @@ I specialize in **cloud computing, automation, CI/CD, and VoIP systems**.
 🔍 I enjoy optimizing cloud infrastructure, securing deployments, and improving system performance.  
 Always exploring new technologies and best practices to enhance efficiency.  
 
+---
+
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=coolvpsone&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
+### 🔥 Streak Stats  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coolvpsone&theme=radical" alt="GitHub Streak">
+</p>
+
+### 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=coolvpsone&theme=radical&no-frame=true&margin-w=5" alt="GitHub Trophies">
+</p>
+
+---
+
+## 🛠 Tech Stack & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,digitalocean,linux,docker,kubernetes,nginx,bash,python,terraform,ansible,githubactions,gitlab,postgres,mysql,redis,vscode" />
+</p>
+
+---
+
+## 📝 Latest Blog Posts  
+<!-- BLOG-POST-LIST:START -->
+- 🚀 [How to Set Up GitHub Actions for CI/CD](#)
+- 🔧 [Automating Cloud Deployments with Terraform](#)
+- 📡 [VoIP Security Best Practices](#)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 ## 📫 Let's Connect!  
 - 💼 [LinkedIn](https://www.linkedin.com/in/virender-pratap-singh-champawat-26b494268/)  
 - 🌍 [GitHub Profile](https://github.com/coolvpsone/)  
+
+---
+
+⭐ **If you like my work, consider giving my repositories a star!** ⭐  
