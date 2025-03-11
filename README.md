@@ -68,17 +68,6 @@ graph TD;
 
 ### **🛠 More Examples of DevOps Diagrams**  
 
-#### **📦 Docker Container Workflow**  
-```md
-```mermaid
-graph TD;
-    Code -->|Build| Docker;
-    Docker -->|Push Image| DockerHub;
-    DockerHub -->|Pull Image| Kubernetes;
-    Kubernetes -->|Deploy| AWS_ECS;
-
-
-
 ---
 
 ## 📝 Latest Blog Posts  
